@@ -1,0 +1,13 @@
+{
+  "id": "jm-tech",
+  "reference_seconds": 10.72275,
+  "reference_sample_rate": 24000,
+  "reference_channels": 1,
+  "audio_sha256": "989a660dae972ddc7774fd1a72a0d03e625661ad1702a50c929e9c5cfa3bd214",
+  "transcript_sha256": "c413ed08738180eb90f34a33e5f0c8d2342ef4d2f2ad8709869a06879cdd91c6",
+  "source_audio": "assets/voice/jm-tech.wav",
+  "source_transcript": "assets/voice/jm-tech.txt",
+  "inference_timesteps": 5,
+  "cfg_value": 2.0,
+  "seed": 0
+}

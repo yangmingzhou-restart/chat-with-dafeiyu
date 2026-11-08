@@ -1,0 +1,16 @@
+.private/
+runtime/
+models/
+.venv/
+__pycache__/
+*.pyc
+.env
+firmware/build/
+firmware/build-ascii/
+firmware/sdkconfig
+firmware/sdkconfig.old
+firmware/main/private_config.h
+firmware/managed_components/
+web/node_modules/
+web/test-results/
+web/playwright-report/

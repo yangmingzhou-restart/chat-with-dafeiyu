@@ -1,0 +1,43 @@
+{
+  "text": "你好，我是大肥鱼，很高兴见到你。别着急，我们慢慢来。",
+  "seed": 0,
+  "voice": "jm-tech",
+  "sample_rate": 48000,
+  "results": [
+    {
+      "steps": 1,
+      "first_seconds": 0.12158500001532957,
+      "generation_seconds": 17.586671500001103,
+      "audio_seconds": 27.52,
+      "rtf": 0.6390505632267842
+    },
+    {
+      "steps": 2,
+      "first_seconds": 0.11484400002518669,
+      "generation_seconds": 5.644422999990638,
+      "audio_seconds": 8.0,
+      "rtf": 0.7055528749988298
+    },
+    {
+      "steps": 3,
+      "first_seconds": 0.09859240002697334,
+      "generation_seconds": 2.7915418000193313,
+      "audio_seconds": 3.84,
+      "rtf": 0.7269640104217009
+    },
+    {
+      "steps": 5,
+      "first_seconds": 0.16011920000892133,
+      "generation_seconds": 4.11420160002308,
+      "audio_seconds": 4.16,
+      "rtf": 0.9889907692363172
+    },
+    {
+      "steps": 10,
+      "first_seconds": 0.25977500004228204,
+      "generation_seconds": 6.034990300016943,
+      "audio_seconds": 4.16,
+      "rtf": 1.4507188221194576
+    }
+  ]
+}

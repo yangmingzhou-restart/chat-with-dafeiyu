@@ -1,0 +1,18 @@
+{
+  "chip": "esp32",
+  "flash_size": "4MB",
+  "esp_idf": "5.3.4",
+  "wifi_ssid": "DAFE_DEMO",
+  "wifi_password": "dafe-demo-1234",
+  "note": "Public demonstration values, not the author network. Rebuild for a different router/SSID.",
+  "files": {
+    "dafe_voice.bin": "543c0184adcc51c0c6ed5e2b94b8a4d9d170858215cd4944b8d25b414a6fa922",
+    "bootloader/bootloader.bin": "9ca7bd7840d53defee8f8f616d9473e85567d2dd823fdfe2d45eb1a5bb3c4a48",
+    "partition_table/partition-table.bin": "7f00b6c042a89b15b0cac534f82ed988caf29278ff5700b0c511eb1b5bb7c820"
+  },
+  "offsets": {
+    "bootloader/bootloader.bin": "0x1000",
+    "partition_table/partition-table.bin": "0x8000",
+    "dafe_voice.bin": "0x10000"
+  }
+}

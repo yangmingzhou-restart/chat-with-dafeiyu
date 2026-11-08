@@ -1,0 +1,30 @@
+{
+  "source": "https://raw.githubusercontent.com/espressif/esp-protocols/websocket-v1.4.0/components/esp_websocket_client/",
+  "version": "1.4.0",
+  "files": [
+    {
+      "file": "CMakeLists.txt",
+      "sha256": "16600ac58dee67d58704c4abd5385d3b83a44d00d1eb637038811f62761d49f8"
+    },
+    {
+      "file": "idf_component.yml",
+      "sha256": "93e4025581e38a74df239097c54a1e5e8230cdba5fce5c378b7b29532f824ea5"
+    },
+    {
+      "file": "Kconfig",
+      "sha256": "3a7ddfa3f715bbd7122cb1ea816b25b2f947e680cf120f6c5b0b53945fbb8f41"
+    },
+    {
+      "file": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "file": "esp_websocket_client.c",
+      "sha256": "c0a3c2be8e40cd045fc6209f00b4a98bc3dfa4f35927ae7761d30eec639d6589"
+    },
+    {
+      "file": "include/esp_websocket_client.h",
+      "sha256": "8e409f87293d09e75cdbd021ba063c78c0cd79927628b63d4673f8151c98f7dc"
+    }
+  ]
+}
